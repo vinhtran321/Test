@@ -28,5 +28,5 @@ jobs:
       with:
         app-name: 'cits3200testingvpt'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_487d9c082cdf4748b5d144ad3639f938 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2599864b149141288d477dfe31813cfc }}
         package: '${{ github.workspace }}/target/*.jar'
