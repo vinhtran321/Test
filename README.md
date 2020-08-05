@@ -1,9 +1,3 @@
-# My Spring App
-
-My cool new app 😎
-
-```shell
-git clone https://github.com/JasonFreeberg/my-spring-app.git
-cd my-spring-app
-mvn spring-boot:run
-```
+testing cloud app server azure
+https://cits3200testingvpt.azurewebsites.net/
+This is the link, it may take a couple reloads to work and get through since the server is running very low spec on Azure
